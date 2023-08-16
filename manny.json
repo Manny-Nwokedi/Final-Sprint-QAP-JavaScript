@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Manny Nwokedi",
+        "Age": "Forty Years old",
+        "Place of birth": "Nigeria",
+        "Interest": "Cooking and Hiking",
+        "Location": "Mount Pearl",
+        "Sex": "Male"
+    },
+    {
+        "Name": "Neze Oby",
+        "Age": "Thirty Years Old",
+        "Place of birth": "Angola",
+        "Interest": "Shopping",
+        "Location": "Mount Pearl",
+        "Sex": "Female"
+
+    },
+    {
+        "Name": "Vanessa Rice",
+        "Age": "Forty Years Old",
+        "Place of birth": "North Korea",
+        "Interest": "Cyber Hacker",
+        "Location": "Mars",
+        "Sex": "Undisclosed"
+    },
+
+    {
+        "Name": "Zeke Emodi",
+        "Age": "Less than Two Years Old",
+        "Place of birth": "Lagos",
+        "Interest": "Baby Shark Cartoon",
+        "Location": "Under Parents Supervision",
+        "Sex": "Baby Boy"
+    },
+    {
+        "Name": "Zane Arinze ",
+        "Age": "Six Years Old",
+        "Place of birth": "Newfoundland Labrador",
+        "Interest": "Hockey",
+        "Location": "Under Parent's Roof",
+        "Sex": "Boy"
+    }
+]
